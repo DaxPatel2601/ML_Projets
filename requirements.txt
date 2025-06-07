@@ -23,6 +23,7 @@ pandas
 numpy
 matplotlib
 seaborn==0.12.2
-
-
+scikit-learn==1.7.0
+catboost==1.2.8
+xgboost==3.0.2
 # -e.
